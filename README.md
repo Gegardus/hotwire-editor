@@ -4,4 +4,6 @@
 
 * bin/dev
 
+* bundle exec rails assets:precompile
+
 
